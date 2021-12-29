@@ -1,7 +1,7 @@
 ### The Treasure Hunter Board Game
 
 ## Credit to other team members:
-Thanks to other team members: Kelly, Amy, Mike, and Elliot 
+Thanks to other team members: Kelly, Amy, Mike, and Elliot. 
 Unfortunately, the commit history and original repo contain sensitive information and this public repo only shows the final project without any commit history. This is out of my control and this is the final form of the project for those interested.
 
 ## Game Story 
